@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HZI/DqCqFCnU7LWStPEBZ0zICXc/Oc3N+fRgQYuIh/hNfr5nQqABlRxkG3gafBJbhuz8ZZeioL1Bfn8Rg2Iq5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jber5\\OneDrive\\Desktop\\Medium-blogs\\.NET Core FluentValidation\\FluentValidationService\\FluentValidationService.Application\\FluentValidationService.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jber5\\.nuget\\packages\\fluentvalidation\\9.2.2\\fluentvalidation.9.2.2.nupkg.sha512",
+    "C:\\Users\\jber5\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.2.0\\fluentvalidation.dependencyinjectionextensions.9.2.0.nupkg.sha512",
+    "C:\\Users\\jber5\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

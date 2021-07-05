@@ -1,0 +1,9 @@
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValidatioNService.Domain\bin\Debug\netcoreapp3.1\FluentValidationService.Domain.deps.json
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValidatioNService.Domain\bin\Debug\netcoreapp3.1\FluentValidationService.Domain.dll
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValidatioNService.Domain\bin\Debug\netcoreapp3.1\FluentValidationService.Domain.pdb
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValidatioNService.Domain\obj\Debug\netcoreapp3.1\FluentValidationService.Domain.csproj.AssemblyReference.cache
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValidatioNService.Domain\obj\Debug\netcoreapp3.1\FluentValidationService.Domain.AssemblyInfoInputs.cache
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValidatioNService.Domain\obj\Debug\netcoreapp3.1\FluentValidationService.Domain.AssemblyInfo.cs
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValidatioNService.Domain\obj\Debug\netcoreapp3.1\FluentValidationService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValidatioNService.Domain\obj\Debug\netcoreapp3.1\FluentValidationService.Domain.dll
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValidatioNService.Domain\obj\Debug\netcoreapp3.1\FluentValidationService.Domain.pdb

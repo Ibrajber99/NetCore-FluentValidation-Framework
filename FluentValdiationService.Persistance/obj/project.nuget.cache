@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "pW+BlXPXNq0hWTm2rzvE3VfkoO5qbpXe+cfwGftSBb52w0fkcdLb85qQWLqtR4NsDfzY/blrFhKinOB5D+F7Pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jber5\\OneDrive\\Desktop\\Medium-blogs\\.NET Core FluentValidation\\FluentValidationService\\FluentValdiationService.Persistance\\FluentValdiationService.Persistance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jber5\\.nuget\\packages\\fluentvalidation\\9.2.2\\fluentvalidation.9.2.2.nupkg.sha512",
+    "C:\\Users\\jber5\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.2.0\\fluentvalidation.dependencyinjectionextensions.9.2.0.nupkg.sha512",
+    "C:\\Users\\jber5\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.16\\microsoft.extensions.configuration.3.1.16.nupkg.sha512",
+    "C:\\Users\\jber5\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.16\\microsoft.extensions.configuration.abstractions.3.1.16.nupkg.sha512",
+    "C:\\Users\\jber5\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.16\\microsoft.extensions.configuration.binder.3.1.16.nupkg.sha512",
+    "C:\\Users\\jber5\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.16\\microsoft.extensions.dependencyinjection.abstractions.3.1.16.nupkg.sha512",
+    "C:\\Users\\jber5\\.nuget\\packages\\microsoft.extensions.options\\3.1.16\\microsoft.extensions.options.3.1.16.nupkg.sha512",
+    "C:\\Users\\jber5\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.16\\microsoft.extensions.options.configurationextensions.3.1.16.nupkg.sha512",
+    "C:\\Users\\jber5\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.16\\microsoft.extensions.primitives.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

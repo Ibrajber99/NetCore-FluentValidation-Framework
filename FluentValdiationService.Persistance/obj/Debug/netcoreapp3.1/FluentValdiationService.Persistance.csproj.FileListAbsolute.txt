@@ -1,0 +1,14 @@
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValdiationService.Persistance\bin\Debug\netcoreapp3.1\FluentValdiationService.Persistance.deps.json
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValdiationService.Persistance\bin\Debug\netcoreapp3.1\FluentValdiationService.Persistance.dll
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValdiationService.Persistance\bin\Debug\netcoreapp3.1\FluentValdiationService.Persistance.pdb
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValdiationService.Persistance\bin\Debug\netcoreapp3.1\FluentValidationService.Application.dll
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValdiationService.Persistance\bin\Debug\netcoreapp3.1\FluentValidationService.Domain.dll
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValdiationService.Persistance\bin\Debug\netcoreapp3.1\FluentValidationService.Application.pdb
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValdiationService.Persistance\bin\Debug\netcoreapp3.1\FluentValidationService.Domain.pdb
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValdiationService.Persistance\obj\Debug\netcoreapp3.1\FluentValdiationService.Persistance.csproj.AssemblyReference.cache
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValdiationService.Persistance\obj\Debug\netcoreapp3.1\FluentValdiationService.Persistance.AssemblyInfoInputs.cache
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValdiationService.Persistance\obj\Debug\netcoreapp3.1\FluentValdiationService.Persistance.AssemblyInfo.cs
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValdiationService.Persistance\obj\Debug\netcoreapp3.1\FluentValdiationService.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValdiationService.Persistance\obj\Debug\netcoreapp3.1\FluentValdiationService.Persistance.csproj.CopyComplete
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValdiationService.Persistance\obj\Debug\netcoreapp3.1\FluentValdiationService.Persistance.dll
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValdiationService.Persistance\obj\Debug\netcoreapp3.1\FluentValdiationService.Persistance.pdb

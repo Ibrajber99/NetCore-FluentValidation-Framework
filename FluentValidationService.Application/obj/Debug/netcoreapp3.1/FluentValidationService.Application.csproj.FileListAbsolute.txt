@@ -1,0 +1,12 @@
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValidationService.Application\bin\Debug\netcoreapp3.1\FluentValidationService.Application.deps.json
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValidationService.Application\bin\Debug\netcoreapp3.1\FluentValidationService.Application.dll
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValidationService.Application\bin\Debug\netcoreapp3.1\FluentValidationService.Application.pdb
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValidationService.Application\bin\Debug\netcoreapp3.1\FluentValidationService.Domain.dll
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValidationService.Application\bin\Debug\netcoreapp3.1\FluentValidationService.Domain.pdb
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValidationService.Application\obj\Debug\netcoreapp3.1\FluentValidationService.Application.csproj.AssemblyReference.cache
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValidationService.Application\obj\Debug\netcoreapp3.1\FluentValidationService.Application.AssemblyInfoInputs.cache
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValidationService.Application\obj\Debug\netcoreapp3.1\FluentValidationService.Application.AssemblyInfo.cs
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValidationService.Application\obj\Debug\netcoreapp3.1\FluentValidationService.Application.csproj.CoreCompileInputs.cache
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValidationService.Application\obj\Debug\netcoreapp3.1\FluentValidationService.Application.csproj.CopyComplete
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValidationService.Application\obj\Debug\netcoreapp3.1\FluentValidationService.Application.dll
+C:\Users\jber5\OneDrive\Desktop\Medium-blogs\.NET Core FluentValidation\FluentValidationService\FluentValidationService.Application\obj\Debug\netcoreapp3.1\FluentValidationService.Application.pdb
